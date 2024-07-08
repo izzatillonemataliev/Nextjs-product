@@ -6,13 +6,7 @@ function Navbar() {
     <div className="">
       <div className=" navbar align-elements ">
         <div className="flex-1">
-          <Link href="/" className="btn btn-ghost text-xl">
-            <img
-              src="https://atlas-content-cdn.pixelsquid.com/stock-images/gold-shopping-cart-icon-mrEyOB2-600.jpg"
-              alt="Shop"
-              width={"25px"}
-              height={"25px"}
-            />
+          <Link href="/" className="btn btn-second text-xl">
             Products
           </Link>
         </div>
